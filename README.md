@@ -1,50 +1,46 @@
-# awesome-solana-ecosystem
+# awesome-solana-ecosystem 🚀🚀🚀
   
- <p align="center"> 
-   🚀🚀🚀 
- </p> 
-  
- <p align="center"> 
+ 
    <strong>A curated (unofficial) list of awesome tools, company, organizations and more who build or contribute to build on Solana Blockchain and participate to it's ecosystem </strong> 
     
    Please submit a pull request if you know any resources that might be helpful to other developers and should be added here! 
- </p> 
+ 
   
- <div align="center"> 
+ 
     
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
- </div>  
+ 
   
  Table of Contents 
  ================= 
   
-    * [awesome-solana](#awesome-solana) 
-       * [Unofficial Network Stats](#unofficial-network-stats) 
-       * [Resources](#resources) 
-          * [Official Resources](#official-resources) 
-             * [Podcast appearances](#podcast-appearances) 
-             * [Tutorials &amp; Projects](#tutorials--projects) 
-          * [Unofficial Resources](#unofficial-resources) 
-             * [Developer Tooling](#developer-tooling) 
-             * [Libraries](#libraries) 
-             * [Tutorials &amp; Projects](#tutorials--projects-1) 
-       * [Projects building on Solana](#projects-building-on-solana) 
+    * [awesome-solana](#awesome-solana) 
+       * [Unofficial Network Stats](#unofficial-network-stats) 
+       * [Resources](#resources) 
+          * [Official Resources](#official-resources) 
+             * [Podcast appearances](#podcast-appearances) 
+             * [Tutorials &amp; Projects](#tutorials--projects) 
+          * [Unofficial Resources](#unofficial-resources) 
+             * [Developer Tooling](#developer-tooling) 
+             * [Libraries](#libraries) 
+             * [Tutorials &amp; Projects](#tutorials--projects-1) 
+       * [Projects building on Solana](#projects-building-on-solana) 
   
  ## Unofficial Network Stats 
- - [Solana Beach](https://solanabeach.io/) 
- - [Validators.app](https://www.validators.app/) 
+ - [Solana Beach](https://solanabeach.io/) 
+ - [Validators.app](https://www.validators.app/) 
   
  ## Resources 
   
  ### Official Resources 
- - [Website](https://solana.com) 
- - [Developer Discord](https://discord.com/invite/pquxPsq) 
- - [Docs](https://docs.solana.com) 
- - [Company Github](https://github.com/solana-labs) 
- - [Podcast](https://podcast.solana.com/) 
- - [Youtube](https://www.youtube.com/c/Solanalabs) 
- - [Blog](https://medium.com/solana-labs) 
- - [Twitter](https://twitter.com/solana) 
+ - [Website](https://solana.com) 
+ - [Developer Discord](https://discord.com/invite/pquxPsq) 
+ - [Docs](https://docs.solana.com) 
+ - [Company Github](https://github.com/solana-labs) 
+ - [Podcast](https://podcast.solana.com/) 
+ - [Youtube](https://www.youtube.com/c/Solanalabs) 
+ - [Blog](https://medium.com/solana-labs) 
+ - [Twitter](https://twitter.com/solana) 
   
  #### Podcast appearances 
  - [Coingecko Ep. 20](https://podcast.coingecko.com/719703/5526409-building-the-fastest-lowest-latency-blockchain-with-anatoly-yakovenko-founder-and-ceo-at-solana-ep-20?utm_source=twitter&utm_campaign=Podcast%2B&utm_medium=social&utm_term=20&0=) 
