@@ -30,13 +30,13 @@
              * [Tutorials &amp; Projects](#tutorials--projects-1) 
        * [Projects building on Solana](#projects-building-on-solana) 
   
- ## Unofficial Network Stats 
+ ## Unofficial Network Stats 
  - [Solana Beach](https://solanabeach.io/) 
  - [Validators.app](https://www.validators.app/) 
   
- ## Resources 
+ ## Resources 
   
- ### Official Resources 
+ ### Official Resources 
  - [Website](https://solana.com) 
  - [Developer Discord](https://discord.com/invite/pquxPsq) 
  - [Docs](https://docs.solana.com) 
@@ -46,7 +46,7 @@
  - [Blog](https://medium.com/solana-labs) 
  - [Twitter](https://twitter.com/solana) 
   
- #### Podcast appearances 
+ #### Podcast appearances 
  - [Coingecko Ep. 20](https://podcast.coingecko.com/719703/5526409-building-the-fastest-lowest-latency-blockchain-with-anatoly-yakovenko-founder-and-ceo-at-solana-ep-20?utm_source=twitter&utm_campaign=Podcast%2B&utm_medium=social&utm_term=20&0=) 
  - [The Blockchain Debate Podcast Ep. 12](https://www.buzzsprout.com/767033/4648859-motion-scalability-is-impossible-without-sharding-and-layer-2-solutions-georgios-konstantopoulos-vs-anatoly-yakovenko-cohost-tarun-chitra) 
  - [The FTX Podcast](https://youtu.be/y5RYRVeN-C4) 
@@ -55,18 +55,18 @@
  - [Unchained Podcast - October 6, 2020](https://unchainedpodcast.com/can-solana-seize-marketshare-from-ethereum-with-serum/) 
  - [The Erica Show Ep. 5](https://youtu.be/wYCZBG9JXVk) 
   
- #### Tutorials & Projects 
+ #### Tutorials & Projects 
  - [Break Solana](https://github.com/solana-labs/break) 
  - [Hello World](https://github.com/solana-labs/example-helloworld) 
  - [Token Swap (Advanced)](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) 
   
- ### Unofficial Resources 
+ ### Unofficial Resources 
   
- #### Developer Tooling 
+ #### Developer Tooling 
  - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters 
  - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed 
   
- #### Libraries & Frameworks 
+ #### Libraries & Frameworks 
  - [Anchor](https://github.com/project-serum/anchor) 
  - [SolanaJ](https://github.com/p2p-org/solanaj) 
  - [Solnet](https://github.com/bmresearch/Solnet) 
@@ -75,11 +75,11 @@
  - [Solana Swift](https://github.com/ajamaica/Solana.Swift) 
  - [Solana Kotlin](https://github.com/ajamaica/Solana.kt) 
   
- #### Tutorials & Projects 
+ #### Tutorials & Projects 
  - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) 
  - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444) 
  - [Solana File Upload](https://github.com/mcf-rocks/solana-upload) 
  - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui) 
   
- ## Projects building on Solana 
+ ## Projects building on Solana 
  see [solana.com/ecosystem](https://www.solana.com/ecosystem)
