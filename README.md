@@ -1,51 +1,50 @@
-# awesome-solana-ecosystem 🚀🚀🚀
+# Awesome Solana Ecosystem 🚀🚀🚀
   
  
-   <strong>A curated (unofficial) list of awesome tools, company, organizations and more who build or contribute to build on Solana Blockchain and participate to it's ecosystem </strong> 
-    
-   Please submit a pull request if you know any resources that might be helpful to other developers and should be added here! 
+  **A curated (unofficial) list of awesome tools, company, organizations and more who build or contribute to build on Solana Blockchain and participate to it's ecosystem.**
+  *Please submit a pull request if you know any resources that might be helpful to other developers and should be added here!*
  
-  
- 
-    
-   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
- 
-  
- ## Unofficial Network Stats 
- - [Solana Beach](https://solanabeach.io/) 
- - [Validators.app](https://www.validators.app/) 
-  
  ## Resources 
   
  ### Official Resources 
- - [Website](https://solana.com) 
- - [Developer Discord](https://discord.com/invite/pquxPsq) 
- - [Docs](https://docs.solana.com) 
- - [Company Github](https://github.com/solana-labs) 
- - [Podcast](https://podcast.solana.com/) 
- - [Youtube](https://www.youtube.com/c/Solanalabs) 
- - [Blog](https://medium.com/solana-labs) 
- - [Twitter](https://twitter.com/solana) 
+ - [Solana Website](https://solana.com) 
+ - [Solana Developers Discord](https://discord.com/invite/pquxPsq) 
+ - [Solana Docs](https://docs.solana.com) 
+ - [Solana Labs Github](https://github.com/solana-labs)  
+ - [Solana Youtube Channel](https://www.youtube.com/SolanaFndn)
+ - [Solana Labs Blog](https://medium.com/solana-labs) 
+ - [Solana Twitter](https://twitter.com/solana)
+ 
   
- #### Podcast appearances 
- - [Coingecko Ep. 20](https://podcast.coingecko.com/719703/5526409-building-the-fastest-lowest-latency-blockchain-with-anatoly-yakovenko-founder-and-ceo-at-solana-ep-20?utm_source=twitter&utm_campaign=Podcast%2B&utm_medium=social&utm_term=20&0=) 
- - [The Blockchain Debate Podcast Ep. 12](https://www.buzzsprout.com/767033/4648859-motion-scalability-is-impossible-without-sharding-and-layer-2-solutions-georgios-konstantopoulos-vs-anatoly-yakovenko-cohost-tarun-chitra) 
- - [The FTX Podcast](https://youtu.be/y5RYRVeN-C4) 
- - [Chorus One Podcast Ep. 16](https://www.stitcher.com/podcast/chorus-one-podcast/e/64417309?autoplay=false) 
- - [The Bitcoin Podcast Network - Hashing it out Ep. 61](https://www.stitcher.com/podcast/the-bitcoin-podcast/e/64176232) 
- - [Unchained Podcast - October 6, 2020](https://unchainedpodcast.com/can-solana-seize-marketshare-from-ethereum-with-serum/) 
- - [The Erica Show Ep. 5](https://youtu.be/wYCZBG9JXVk) 
+ ## Unofficial Network Stats 
+ - [Solana Beach](https://solanabeach.io/) - Explore the Solana blockchain: statistics, validators, token metrics and news about the overall ecosystem.
+ - [Validators.app](https://www.validators.app/) - Solana Validator Metrics · Recent TX Confirmation Time Stats · Epoch · Epoch Progress.
+
+
+ ## Wallets
+ 
+ - [Phantom](https://phantom.app/)
+ - [Solflare](https://solflare.com/)
+ - [Solong](https://solongwallet.io/)
+ - [Sollet](https://www.sollet.io/)
+ - [Ledger](http://ledger.com/)
+
+ ## DeFi
+ 
+ - [Raydium](https://raydium.io/) - A suite of features powering the evolution of DeFi on Solana.
+ - [Serum](https://projectserum.com/) - Protocol for decentralized exchanges that brings unprecedented speed and low transaction costs to decentralized finance.
+ - [Sonar Watch](https://sonar.watch/) - Sonar Watch is a dashboard to track Yield Farming and Liquidity Pool performance on Solana blockchain.
+  
   
  #### Tutorials & Projects 
  - [Break Solana](https://github.com/solana-labs/break) 
  - [Hello World](https://github.com/solana-labs/example-helloworld) 
  - [Token Swap (Advanced)](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) 
   
- ### Unofficial Resources 
-  
- #### Developer Tooling 
- - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters 
+ #### Developer Tooling & Ressources
+ - [Skunka Tools](https://skunka-tools.xyz) - No code SPL Token Manager on Solana Blockchain.
  - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed 
+ - [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
   
  #### Libraries & Frameworks 
  - [Anchor](https://github.com/project-serum/anchor) 
@@ -64,6 +63,3 @@
   
  ## Projects building on Solana 
  see [solana.com/ecosystem](https://www.solana.com/ecosystem)
-
-
-[![](https://visitcount.itsvg.in/api?id=Skelt24/awesome-solana-ecosystem&icon=4&color=9)](https://visitcount.itsvg.in)
