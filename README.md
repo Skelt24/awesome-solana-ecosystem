@@ -1,8 +1,17 @@
-# Awesome Solana Ecosystem 🚀🚀🚀
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+# 🚀 Awesome Solana Ecosystem 🚀
   
  
   **A curated (unofficial) list of awesome tools, company, organizations and more who build or contribute to build on Solana Blockchain and participate to it's ecosystem.**
-  *Please submit a pull request if you know any resources that might be helpful to other developers and should be added here!*
+  
+  *🚧 Under construction 🚧*
+  
+  *Please submit a pull request if you know any resources that might be helpful to others and should be added here! 🙏*
+ 
+ </div>
  
  ## Resources 
   
