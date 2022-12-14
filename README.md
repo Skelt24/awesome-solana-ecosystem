@@ -66,4 +66,4 @@
  see [solana.com/ecosystem](https://www.solana.com/ecosystem)
 
 
-![Visitor Count](https://profile-counter.glitch.me/Skelt24/count.svg)
+[![](https://visitcount.itsvg.in/api?id=Skelt24/awesome-solana-ecosystem&icon=4&color=9)](https://visitcount.itsvg.in)
