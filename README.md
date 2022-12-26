@@ -43,6 +43,10 @@
  - [Raydium](https://raydium.io/) - A suite of features powering the evolution of DeFi on Solana.
  - [Serum](https://projectserum.com/) - Protocol for decentralized exchanges that brings unprecedented speed and low transaction costs to decentralized finance.
  - [Sonar Watch](https://sonar.watch/) - Sonar Watch is a dashboard to track Yield Farming and Liquidity Pool performance on Solana blockchain.
+ - [Orca](https://www.orca.so/) - Orca is the easiest, fastest, and most user-friendly cryptocurrency exchange on the Solana blockchain.
+ - [Drift Protocol](https://www.drift.trade/) - Drift brings on-chain, cross-margined perpetual futures to Solana, making future DEXs the best way to trade.
+ - [Mango](https://mango.markets/) - Mango is a decentralized, cross-margin trading platform with up to 5x leverage with integrated limit orders on Serum DEX’s on-chain order book.
+ - [Hubble Protocol](https://hubbleprotocol.io/) - Hubble Protocol lets users borrow USDH against a basket of crypto assets including SOL, mSOL, BTC, ETH, RAY, SRM, and FTT (more to come).
   
   
  #### Tutorials & Projects 
