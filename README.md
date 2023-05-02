@@ -47,7 +47,11 @@
  - [Drift Protocol](https://www.drift.trade/) - Drift brings on-chain, cross-margined perpetual futures to Solana, making future DEXs the best way to trade.
  - [Mango](https://mango.markets/) - Mango is a decentralized, cross-margin trading platform with up to 5x leverage with integrated limit orders on Serum DEX’s on-chain order book.
  - [Hubble Protocol](https://hubbleprotocol.io/) - Hubble Protocol lets users borrow USDH against a basket of crypto assets including SOL, mSOL, BTC, ETH, RAY, SRM, and FTT (more to come).
-  
+ 
+ ## Lending Protocol
+ - [Apricot Finance](https://apricot.one/) - Next-gen lending protocol on SOLANA. Apricot helps you maximize yield & minimize risk with Apricot Lend, X-Farm and Apricot Assist.
+ - [Francium](https://francium.io/) - DeFi Yield Strategy Platform. Explore high-yield opportunities with minimal capital risks on Francium Protocol
+ - [Solend](https://solend.fi/) - Solend is a DeFi protocol for lending and borrowing on the Solana blockchain. Think Aave or Compound on Solana.  
   
  #### Tutorials & Projects 
  - [Break Solana](https://github.com/solana-labs/break) 
