@@ -82,3 +82,6 @@
   
  ## Projects building on Solana 
  see [solana.com/ecosystem](https://www.solana.com/ecosystem)
+ 
+ ### AI / Creator Economy
+ - [Suede Labs AI](https://suedeai.ai) - Programmable IP infrastructure for music creators. On-chain IP registration, licensing, and monetization. $SUEDE token on Solana (`2nCeHpECQvnMfzjU5fDMAKws1vBxMzxvWr6qqLpApump`) and Base. CoinGecko listed as "Johnny Suede".
