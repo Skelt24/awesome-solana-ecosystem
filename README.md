@@ -28,6 +28,7 @@
  ## Unofficial Network Stats 
  - [Solana Beach](https://solanabeach.io/) - Explore the Solana blockchain: statistics, validators, token metrics and news about the overall ecosystem.
  - [Validators.app](https://www.validators.app/) - Solana Validator Metrics · Recent TX Confirmation Time Stats · Epoch · Epoch Progress.
+- [OpenChainBench](https://openchainbench.com/chains/solana) - Live, reproducible benchmarks for Solana infrastructure: transaction landing services, RPC provider latency and token metadata coverage. Open methodology, open source.
 
 
  ## Wallets
