@@ -63,6 +63,7 @@
  - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed 
  - [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
  - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
+ - [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free, no-code n8n workflow: Telegram alert when a Solana SPL token price crosses a threshold, no external database.
 
   
  #### Libraries & Frameworks 
