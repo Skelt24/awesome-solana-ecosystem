@@ -28,6 +28,7 @@
  ## Unofficial Network Stats 
  - [Solana Beach](https://solanabeach.io/) - Explore the Solana blockchain: statistics, validators, token metrics and news about the overall ecosystem.
  - [Validators.app](https://www.validators.app/) - Solana Validator Metrics · Recent TX Confirmation Time Stats · Epoch · Epoch Progress.
+- [n8n Solana Mint Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID and alerts on Telegram on new transactions.
 
 
  ## Wallets
