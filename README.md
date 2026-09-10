@@ -63,6 +63,7 @@
  - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed 
  - [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
  - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
+ - [TokenBundle](https://www.tokenbundle.app/) - Non-custodial workspace for coordinating multi-wallet token launches across Robinhood Chain, Solana and Ethereum.
 
   
  #### Libraries & Frameworks 
