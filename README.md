@@ -29,6 +29,9 @@
  - [Solana Beach](https://solanabeach.io/) - Explore the Solana blockchain: statistics, validators, token metrics and news about the overall ecosystem.
  - [Validators.app](https://www.validators.app/) - Solana Validator Metrics · Recent TX Confirmation Time Stats · Epoch · Epoch Progress.
 
+ - - [MadeOnSol](https://madeonsol.com) - Solana ecosystem directory with 815+ tools, deployer tracking (7,197+ pump.fun deployers), and KOL wallet monitoring.
+Same 
+
 
  ## Wallets
  
