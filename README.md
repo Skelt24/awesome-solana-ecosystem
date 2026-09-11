@@ -85,3 +85,8 @@ Same
   
  ## Projects building on Solana 
  see [solana.com/ecosystem](https://www.solana.com/ecosystem)
+
+ ## Trading & Alpha Tools
+
+ - [XHuntr](https://xhuntr.com) - The only X (Twitter) community sniper for Solana. Telegram bot that fires instant alerts when alpha hunters create or join X communities, post contract addresses before tweeting publicly, or when multiple tracked accounts converge on the same community.
+
