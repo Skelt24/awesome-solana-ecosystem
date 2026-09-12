@@ -12,8 +12,8 @@ retry_wait_time = 5
 # Give slow sites a fair chance before marking them broken.
 timeout = 20
 
-# Skip mailto: links.
-exclude_mail = true
+# mailto: links are excluded by default (include_mail = false), so no
+# explicit setting is needed here.
 
 # Known bot-hostile hosts that reliably block automated checkers even though
 # the pages work fine for humans — excluded to avoid constant false-positive noise.
