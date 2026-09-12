@@ -1,0 +1,37 @@
+name: Link Checker
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --config .lychee.toml
+            --no-progress
+            --verbose
+            './**/*.md'
+          fail: true
+
+      - name: Create issue on scheduled failure
+        if: failure() && github.event_name == 'schedule'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Weekly link check found broken links"
+          content-filepath: ./lychee/out.md
+          labels: |
+            broken-links
+            automated

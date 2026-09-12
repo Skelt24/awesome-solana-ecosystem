@@ -10,6 +10,8 @@
   *🚧 Under construction 🚧*
   
   *Please submit a pull request if you know any resources that might be helpful to others and should be added here! 🙏*
+  
+  *See [CONTRIBUTING.md](CONTRIBUTING.md) for inclusion criteria before opening a PR.*
  
  </div>
  
@@ -112,7 +114,6 @@
 - [Sec3](https://www.sec3.dev/) - Automated security tooling and audits for Solana programs.
 
 ## Developer Tooling & Resources
-- [Eonify](https://eonify.space) - No code SPL Token Manager on Solana Blockchain.
 - [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
 - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
