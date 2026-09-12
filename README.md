@@ -53,7 +53,7 @@
 - [Orca](https://www.orca.so/) - User-friendly concentrated-liquidity DEX on Solana.
 - [Meteora](https://www.meteora.ag/) - Dynamic liquidity market maker (DLMM) protocol on Solana.
 - [Phoenix](https://www.phoenix.trade/) - Fully on-chain, non-custodial central limit order book DEX by Ellipsis Labs (spot product; the team's active development has shifted toward Phoenix Perpetuals).
-- [OpenBook](https://openbookdex.com/) - Community-led, fully on-chain central limit order book. Forked from Serum after the FTX collapse to keep a neutral, non-custodial order book public utility alive for Solana DeFi.
+- [OpenBook](https://github.com/openbook-dex) - Community-led, fully on-chain central limit order book. Forked from Serum after the FTX collapse to keep a neutral, non-custodial order book public utility alive for Solana DeFi.
 
 ### Perpetuals
 - [Drift Protocol](https://www.drift.trade/) - On-chain, cross-margined perpetual futures exchange on Solana.
@@ -105,7 +105,7 @@
 - [Solscan](https://solscan.io/) - Solana blockchain explorer for transactions, tokens, and accounts.
 - [SolanaFM](https://solana.fm/) - Solana blockchain explorer with a developer-focused API (acquired by Jupiter in 2024).
 - [Jupiter Portfolio](https://jup.ag/portfolio) - Unified Solana portfolio tracker covering token balances, DeFi positions, staking, and transaction history (formerly SonarWatch, acquired by Jupiter in 2025).
-- [Step Finance](https://step.finance/) - Solana portfolio dashboard and on-chain analysis tool with built-in swap and staking flows.
+- [Step Finance](https://app.step.finance/) - Solana portfolio dashboard and on-chain analysis tool with built-in swap and staking flows.
 
 ## Security
 
