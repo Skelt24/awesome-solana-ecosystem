@@ -81,6 +81,7 @@
 
 - [Metaplex](https://www.metaplex.com/) - The core NFT and digital-asset protocol standard on Solana.
 - [Tensor](https://www.tensor.trade/) - The dominant Solana NFT marketplace, handling the majority of on-chain NFT volume; also expanding into token trading.
+- [Magic Eden](https://magiceden.io/) - Multi-chain NFT marketplace with deep Solana roots and one of the largest NFT user bases in the ecosystem.
 - [SNS (Solana Name Service)](https://sns.id/) - Human-readable `.sol` domain names for Solana wallet addresses, natively resolved by wallets like Phantom and Solflare.
 
 ## DePIN
@@ -89,6 +90,12 @@
 - [Render Network](https://rendernetwork.com/) - Decentralized GPU compute network for 3D rendering and AI workloads; Solana's largest DePIN project by usage.
 - [io.net](https://io.net/) - Decentralized GPU network aggregating idle compute for AI/ML workloads.
 - [Hivemapper](https://hivemapper.com/) - Decentralized, dashcam-sourced mapping network building a crowdsourced alternative to traditional map providers.
+
+## AI on Solana
+
+- [Solana Agent Kit](https://kit.sendai.fun/) - Open-source toolkit connecting AI agents to 60+ Solana actions (token, NFT, and DeFi operations) across any LLM or agent framework.
+- [ElizaOS](https://www.elizaos.ai/) - Actively developed, model-agnostic TypeScript framework for autonomous AI agents with native Solana support and 90+ plugins. (Note: its associated AI16Z token collapsed and was declared "dead" by its founder in 2026 amid a lawsuit — that's a token story, not a reflection of the open-source framework, which continues independent, active development.)
+- [Rig](https://rig.rs/) - Rust-native framework for building modular, production-grade LLM-powered agents; used in production by real Solana-adjacent projects.
 
 ## DAO & Multisig Tooling
 
@@ -99,6 +106,7 @@
 
 - [Helius](https://www.helius.dev/) - Solana RPC infrastructure and enhanced APIs (DAS API for NFTs/compression) for developers.
 - [Triton One](https://triton.one/) - High-performance RPC, validator, and historical data infrastructure for Solana.
+- [Yellowstone gRPC](https://github.com/rpcpool/yellowstone-grpc) - Triton's "Dragon's Mouth" gRPC streaming service for high-performance, low-latency Solana data feeds; the standard most Solana indexers are built on.
 
 ## Explorers & Analytics
 
@@ -112,14 +120,20 @@
 - [OtterSec](https://osec.io/) - Leading Solana-focused smart contract security auditing firm.
 - [Neodyme](https://neodyme.io/) - Security research and audit firm specializing in Solana programs.
 - [Sec3](https://www.sec3.dev/) - Automated security tooling and audits for Solana programs.
+- [Trident](https://github.com/Ackee-Blockchain/trident) - Open-source, Solana-Foundation-backed Rust fuzzing framework by Ackee Blockchain for uncovering edge-case vulnerabilities in Solana programs before an audit.
 
 ## Developer Tooling & Resources
 - [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
 - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
+- [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
+- [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.
 
 ## Libraries & Frameworks 
  - [Anchor](https://github.com/coral-xyz/anchor) - The most widely used framework for Solana program development.
+ - [Solana Kit](https://github.com/anza-xyz/kit) - Anza's modern JavaScript/TypeScript SDK for Solana and the official successor to `@solana/web3.js` (zero-dependency, tree-shakeable, faster crypto).
+ - [Wallet Adapter](https://github.com/anza-xyz/wallet-adapter) - The standard modular TypeScript wallet adapters and React components for connecting wallets in a Solana app; used by the vast majority of Solana frontends.
+ - [Codama](https://github.com/codama-idl/codama) - Generates typed TypeScript/Rust clients, CLIs, and docs directly from a Solana program's IDL.
  - [SolanaJ](https://github.com/p2p-org/solanaj) 
  - [Solnet](https://github.com/bmresearch/Solnet) 
  - [Solana Python](https://pypi.org/project/solana/) 
