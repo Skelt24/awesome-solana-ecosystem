@@ -14,7 +14,9 @@
   *See [CONTRIBUTING.md](CONTRIBUTING.md) for inclusion criteria before opening a PR.*
  
  </div>
- 
+
+> **Disclaimer:** This is an independent, unofficial, community-maintained list. No maintainer or contributor receives any commercial benefit, sponsorship, payment, or affiliate compensation for any project, tool, or link included here — inclusion is based solely on the criteria in [CONTRIBUTING.md](CONTRIBUTING.md). Being listed is **not** an endorsement, an audit, or a guarantee of safety, reliability, or solvency. Always do your own research (DYOR) — check a project's current status, security track record, and terms yourself — before using it, connecting a wallet to it, or depositing any funds.
+
  ## Resources 
   
  ### Official Resources 
