@@ -98,6 +98,7 @@
 - [Solana Agent Kit](https://kit.sendai.fun/) - Open-source toolkit connecting AI agents to 60+ Solana actions (token, NFT, and DeFi operations) across any LLM or agent framework.
 - [ElizaOS](https://www.elizaos.ai/) - Actively developed, model-agnostic TypeScript framework for autonomous AI agents with native Solana support and 90+ plugins. (Note: its associated AI16Z token collapsed and was declared "dead" by its founder in 2026 amid a lawsuit — that's a token story, not a reflection of the open-source framework, which continues independent, active development.)
 - [Rig](https://rig.rs/) - Rust-native framework for building modular, production-grade LLM-powered agents; used in production by real Solana-adjacent projects.
+- [Solgrok](https://github.com/LMajster/sgrok) - Autonomous Solana creator-ops agent running 24/7 for $SGROK creator rewards; site https://lmajster.github.io/sgrok/
 
 ## DAO & Multisig Tooling
 
