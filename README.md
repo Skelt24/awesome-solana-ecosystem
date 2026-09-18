@@ -116,6 +116,7 @@
 - [SolanaFM](https://solana.fm/) - Solana blockchain explorer with a developer-focused API (acquired by Jupiter in 2024).
 - [Jupiter Portfolio](https://jup.ag/portfolio) - Unified Solana portfolio tracker covering token balances, DeFi positions, staking, and transaction history (formerly SonarWatch, acquired by Jupiter in 2025).
 - [Step Finance](https://app.step.finance/) - Solana portfolio dashboard and on-chain analysis tool with built-in swap and staking flows.
+- [QuantumPools](https://quantumpools.io/) - Solana + EVM LP bookkeeping and metrics for original deposit, fees, impermanent loss, and cover value.
 
 ## Security
 
