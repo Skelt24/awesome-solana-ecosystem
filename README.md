@@ -130,6 +130,7 @@
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.
+- [anchor-error-decoder](https://github.com/visawestern/anchor-error-decoder) - Static page that decodes Anchor framework errors (100-5000) and IDL custom errors (6000+) from pasted Solana logs with retry triage, no backend.
 
 ## Libraries & Frameworks 
  - [Anchor](https://github.com/coral-xyz/anchor) - The most widely used framework for Solana program development.
