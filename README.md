@@ -130,6 +130,7 @@
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.
+- [pumpfun-buy-decoder](https://github.com/visawestern/pumpfun-buy-decoder) - Static page that decodes version-tolerant pump.fun buy instruction data (R1 legacy / R2 Option / R3 struct) with raw tail fallback, no backend.
 
 ## Libraries & Frameworks 
  - [Anchor](https://github.com/coral-xyz/anchor) - The most widely used framework for Solana program development.
