@@ -20,4 +20,7 @@ timeout = 20
 exclude = [
   "^https://(www\\.)?(twitter|x)\\.com",
   "^https://(www\\.)?discord\\.com/invite",
+  # Returns 402 Payment Required to automated clients; its About page states
+  # there is no paywall for human visitors.
+  "^https://openchainbench\\.com",
 ]

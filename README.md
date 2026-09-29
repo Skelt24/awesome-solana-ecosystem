@@ -96,7 +96,7 @@
 ## AI on Solana
 
 - [Solana Agent Kit](https://kit.sendai.fun/) - Open-source toolkit connecting AI agents to 60+ Solana actions (token, NFT, and DeFi operations) across any LLM or agent framework.
-- [ElizaOS](https://www.elizaos.ai/) - Actively developed, model-agnostic TypeScript framework for autonomous AI agents with native Solana support and 90+ plugins. (Note: its associated AI16Z token collapsed and was declared "dead" by its founder in 2026 amid a lawsuit — that's a token story, not a reflection of the open-source framework, which continues independent, active development.)
+- [ElizaOS](https://github.com/elizaOS/eliza) - Actively developed, model-agnostic TypeScript framework for autonomous AI agents with native Solana support and 90+ plugins. (Note: its associated AI16Z token collapsed and was declared "dead" by its founder in 2026 amid a lawsuit — that's a token story, not a reflection of the open-source framework, which continues independent, active development.)
 - [Rig](https://rig.rs/) - Rust-native framework for building modular, production-grade LLM-powered agents; used in production by real Solana-adjacent projects.
 
 ## DAO & Multisig Tooling
@@ -126,13 +126,12 @@
 
 ## Developer Tooling & Resources
 - [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
-- [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.
 
 ## Libraries & Frameworks 
- - [Anchor](https://github.com/coral-xyz/anchor) - The most widely used framework for Solana program development.
+ - [Anchor](https://github.com/otter-sec/anchor) - The most widely used framework for Solana program development, now maintained by OtterSec.
  - [Solana Kit](https://github.com/anza-xyz/kit) - Anza's modern JavaScript/TypeScript SDK for Solana and the official successor to `@solana/web3.js` (zero-dependency, tree-shakeable, faster crypto).
  - [Wallet Adapter](https://github.com/anza-xyz/wallet-adapter) - The standard modular TypeScript wallet adapters and React components for connecting wallets in a Solana app; used by the vast majority of Solana frontends.
  - [Codama](https://github.com/codama-idl/codama) - Generates typed TypeScript/Rust clients, CLIs, and docs directly from a Solana program's IDL.
