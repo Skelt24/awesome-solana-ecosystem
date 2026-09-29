@@ -128,6 +128,7 @@
 - [Solana Cookbook](https://solana.com/developers/cookbook) - Developer resource that provides the essential concepts and references for building applications on Solana.
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
+- [MintCraft](https://mintcraft.io/solana) - No-code SPL token creator and launch toolkit: Raydium/Meteora pools, LP lock and burn, vesting, multisender and authority revokes, with social login and card payment.
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.
 
 ## Libraries & Frameworks 
