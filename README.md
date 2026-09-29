@@ -130,6 +130,7 @@
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.
+- [txsize-calc](https://github.com/visawestern/txsize-calc) - Offline page that counts Solana transaction bytes (signatures, header, keys, blockhash, instructions, ALT lookups, compact-u16 prefixes) against the 1232-byte limit, no RPC.
 
 ## Libraries & Frameworks 
  - [Anchor](https://github.com/coral-xyz/anchor) - The most widely used framework for Solana program development.
