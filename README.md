@@ -128,6 +128,7 @@
 - [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
+- [MintCraft](https://mintcraft.io/solana) - No-code SPL token creator and launch toolkit: Raydium/Meteora pools, LP lock and burn, vesting, multisender and authority revokes, with social login and card payment.
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.
 
 ## Libraries & Frameworks 
@@ -157,7 +158,3 @@
  ## Trading & Alpha Tools
 
  - [XHuntr](https://xhuntr.com) - The only X (Twitter) community sniper for Solana. Telegram bot that fires instant alerts when alpha hunters create or join X communities, post contract addresses before tweeting publicly, or when multiple tracked accounts converge on the same community.
-
-
-## Token Creation & Launch Tools
-- [MintCraft](https://mintcraft.io) - Solana token creation and management suite: SPL/Token-2022 minting, mint/freeze/metadata authority revocation, liquidity pool creation on Raydium and Meteora, and bulk token distribution via multisender.
