@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # 🚀 Awesome Solana Ecosystem 🚀
   
@@ -40,7 +40,7 @@
 
 ## Wallets
 
-- [Phantom](https://phantom.app/)
+- [Phantom](https://phantom.com/)
 - [Solflare](https://solflare.com/)
 - [Backpack](https://backpack.app/) - Multi-chain wallet with built-in xNFT support and an integrated exchange; one of the most widely used Solana wallets today.
 - [Ledger](http://ledger.com/)
@@ -61,7 +61,7 @@
 - [Drift Protocol](https://www.drift.trade/) - On-chain, cross-margined perpetual futures exchange on Solana.
 
 ### Lending
-- [Kamino Finance](https://kamino.finance/) - Automated liquidity and lending protocol on Solana.
+- [Kamino Finance](https://kamino.com/) - Automated liquidity and lending protocol on Solana.
 - [MarginFi](https://marginfi.com/) - Decentralized lending protocol on Solana.
 - [Save](https://save.finance/) - Lending and borrowing protocol on Solana (formerly Solend, rebranded in 2024).
 
@@ -125,7 +125,7 @@
 - [Trident](https://github.com/Ackee-Blockchain/trident) - Open-source, Solana-Foundation-backed Rust fuzzing framework by Ackee Blockchain for uncovering edge-case vulnerabilities in Solana programs before an audit.
 
 ## Developer Tooling & Resources
-- [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
+- [Solana Cookbook](https://solana.com/developers/cookbook) - Developer resource that provides the essential concepts and references for building applications on Solana.
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.

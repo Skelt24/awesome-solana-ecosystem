@@ -4,9 +4,24 @@ Thanks for helping keep this list useful. This is a **curated** list, not a dire
 addition should make the ecosystem easier to navigate, not harder. Please read the criteria below
 before opening a pull request.
 
+## Requirements
+
+Pull requests that don't meet **all** of these are closed without further review:
+
+- **Disclose any affiliation.** If you build, work for, are paid by, or hold tokens in the project
+  you're adding, say so in the PR. Self-submissions are welcome; undisclosed ones are not.
+- **Official links only.** Link to the project's own domain or repository. No referral, affiliate,
+  tracking, or shortened links, and no third-party "partner" or review sites.
+- **A real track record.** The project has been public for at least 3 months, and the PR links
+  evidence that people use it (users, TVL, volume, GitHub stars, downloads, integrations). New
+  projects are welcome to resubmit once they have traction.
+- **Not built to mislead other users.** Tools whose main purpose is to disguise who controls a
+  token's supply or to fake activity (launch bundlers, volume or wash-trading bots) aren't listed.
+- **One project per pull request.** If you're submitting your own projects, open one at a time.
+
 ## Inclusion criteria
 
-An entry should meet **most** of the following before it's added:
+Beyond the requirements above, an entry should meet **most** of the following:
 
 - **Actively maintained.** Meaningful commits, releases, or product updates within the last 6
   months, or clear evidence of active usage (real TVL, real users, real transaction volume — not
@@ -45,8 +60,10 @@ confirm — I couldn't verify current status") rather than silently keeping or d
    you can't back up).
 3. If you're removing or renaming something, explain why in the PR description with a source
    where possible (an announcement, a postmortem, an acquisition notice).
-4. Open a pull request. A weekly automated link check runs against the whole list — if your PR
-   introduces a link that's already broken, it will be flagged; fix it before requesting review.
+4. Open a pull request and fill in the template. An automated link check runs on every PR and
+   weekly against the whole list. It flags broken links and links that redirect to a different
+   domain (a common sign of an expired or hijacked domain). Fix anything it flags before
+   requesting review.
 
 ## Style
 
