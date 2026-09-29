@@ -157,3 +157,7 @@
  ## Trading & Alpha Tools
 
  - [XHuntr](https://xhuntr.com) - The only X (Twitter) community sniper for Solana. Telegram bot that fires instant alerts when alpha hunters create or join X communities, post contract addresses before tweeting publicly, or when multiple tracked accounts converge on the same community.
+
+
+## Token Creation & Launch Tools
+- [MintCraft](https://mintcraft.io) - Solana token creation and management suite: SPL/Token-2022 minting, mint/freeze/metadata authority revocation, liquidity pool creation on Raydium and Meteora, and bulk token distribution via multisender.
