@@ -157,3 +157,6 @@
  ## Trading & Alpha Tools
 
  - [XHuntr](https://xhuntr.com) - The only X (Twitter) community sniper for Solana. Telegram bot that fires instant alerts when alpha hunters create or join X communities, post contract addresses before tweeting publicly, or when multiple tracked accounts converge on the same community.
+## Social & Community
+
+- [Solfray](https://solfray.com) - Community chat with channels, threads, voice, video and games, Solana wallet login and SOL tipping with 0% platform fees.
