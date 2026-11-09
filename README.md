@@ -77,7 +77,7 @@
 
 ## Stablecoins & Payments
 
-- [Solana Pay](https://solanapay.com/) - Open protocol for accepting payments in USDC and other SPL tokens directly on Solana.
+- [Solana Pay](https://solana.com/docs/payments/accept-payments/solana-pay) - Open protocol for accepting payments in USDC and other SPL tokens directly on Solana.
 
 ## NFTs & Digital Assets
 
@@ -115,7 +115,6 @@
 - [Solscan](https://solscan.io/) - Solana blockchain explorer for transactions, tokens, and accounts.
 - [SolanaFM](https://solana.fm/) - Solana blockchain explorer with a developer-focused API (acquired by Jupiter in 2024).
 - [Jupiter Portfolio](https://jup.ag/portfolio) - Unified Solana portfolio tracker covering token balances, DeFi positions, staking, and transaction history (formerly SonarWatch, acquired by Jupiter in 2025).
-- [Step Finance](https://app.step.finance/) - Solana portfolio dashboard and on-chain analysis tool with built-in swap and staking flows.
 
 ## Security
 
