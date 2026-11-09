@@ -32,12 +32,25 @@ jobs:
         if: ${{ !cancelled() }}
         run: python3 .github/scripts/check_redirects.py lychee/out.md
 
-      - name: Create issue on scheduled failure
+      - name: Find open link-check issue
+        id: existing
+        if: failure() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number=$(gh api "repos/$GITHUB_REPOSITORY/issues?labels=broken-links&state=open&per_page=1" \
+            --jq '.[0].number // empty')
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+
+      # Updates the open issue if there is one (empty issue-number means create), so a
+      # link that stays broken for weeks doesn't open a new issue every Monday.
+      - name: Create or update issue on scheduled failure
         if: failure() && github.event_name == 'schedule'
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: "Weekly link check found broken or redirected links"
           content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.existing.outputs.number }}
           labels: |
             broken-links
             automated
