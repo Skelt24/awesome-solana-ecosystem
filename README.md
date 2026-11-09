@@ -137,7 +137,7 @@
  - [SolanaJ](https://github.com/p2p-org/solanaj) 
  - [Solnet](https://github.com/bmresearch/Solnet) 
  - [Solana Python](https://pypi.org/project/solana/) 
- - [Solana Dart Flutter](https://github.com/cryptoplease/dart-solana-lib) 
+ - [Solana Dart Flutter](https://pub.dev/packages/solana) 
  - [Solana Swift](https://github.com/ajamaica/Solana.Swift) 
  - [Solana Kotlin](https://github.com/ajamaica/Solana.kt) 
   
