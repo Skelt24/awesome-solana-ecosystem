@@ -80,7 +80,7 @@
 
 ## Real-World Assets
 
-- [Ondo Stocks](https://ondo.finance/global-markets) - Hundreds of tokenized US stocks and ETFs on Solana for non-US investors (formerly Ondo Global Markets).
+- [Ondo Stocks](https://ondo.finance/ondo-stocks) - Hundreds of tokenized US stocks and ETFs on Solana for non-US investors (formerly Ondo Global Markets).
 - [xStocks](https://xstocks.fi/) - Tokenized US stocks and ETFs issued by Backed, backed 1:1 by the underlying shares and usable across Solana DeFi; not available to US persons.
 
 ## NFTs & Digital Assets
