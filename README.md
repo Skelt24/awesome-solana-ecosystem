@@ -22,10 +22,11 @@
  ### Official Resources 
  - [Solana Website](https://solana.com) 
  - [Solana Developers Discord](https://discord.com/invite/pquxPsq) 
- - [Solana Docs](https://docs.solana.com) 
- - [Solana Labs Github](https://github.com/solana-labs)  
+ - [Solana Docs](https://solana.com/docs) 
+ - [Solana Foundation GitHub](https://github.com/solana-foundation)
+ - [Anza GitHub](https://github.com/anza-xyz)
  - [Solana Youtube Channel](https://www.youtube.com/SolanaFndn)
- - [Solana Labs Blog](https://medium.com/solana-labs) 
+ - [Solana News](https://solana.com/news) 
  - [Solana Twitter](https://twitter.com/solana)
 
 ## Unofficial Network Stats
@@ -42,7 +43,7 @@
 
 - [Phantom](https://phantom.com/)
 - [Solflare](https://solflare.com/)
-- [Backpack](https://backpack.app/) - Multi-chain wallet with built-in xNFT support and an integrated exchange; one of the most widely used Solana wallets today.
+- [Backpack](https://backpack.app/) - Multi-chain self-custody wallet that connects directly to the Backpack exchange.
 - [Ledger](http://ledger.com/)
 
 ## DeFi
@@ -54,15 +55,14 @@
 - [Raydium](https://raydium.io/) - A suite of features powering the evolution of DeFi on Solana.
 - [Orca](https://www.orca.so/) - User-friendly concentrated-liquidity DEX on Solana.
 - [Meteora](https://www.meteora.ag/) - Dynamic liquidity market maker (DLMM) protocol on Solana.
-- [Phoenix](https://www.phoenix.trade/) - Fully on-chain, non-custodial central limit order book DEX by Ellipsis Labs (spot product; the team's active development has shifted toward Phoenix Perpetuals).
 - [OpenBook](https://github.com/openbook-dex) - Community-led, fully on-chain central limit order book. Forked from Serum after the FTX collapse to keep a neutral, non-custodial order book public utility alive for Solana DeFi.
 
 ### Perpetuals
-- [Drift Protocol](https://www.drift.trade/) - On-chain, cross-margined perpetual futures exchange on Solana.
+- [Phoenix](https://www.phoenix.trade/) - On-chain perpetual futures exchange by Ellipsis Labs, with crypto, equity and commodity markets; its original spot order book is still live.
 
 ### Lending
 - [Kamino Finance](https://kamino.com/) - Automated liquidity and lending protocol on Solana.
-- [MarginFi](https://marginfi.com/) - Decentralized lending protocol on Solana.
+- [Project 0](https://app.0.xyz/) - DeFi prime broker built on the MarginFi lending protocol (formerly MarginFi, renamed in 2025).
 - [Save](https://save.finance/) - Lending and borrowing protocol on Solana (formerly Solend, rebranded in 2024).
 
 ### Liquid Staking & Restaking
@@ -73,17 +73,21 @@
 ## Oracles
 
 - [Pyth Network](https://pyth.network/) - First-party financial oracle network, one of the primary price-feed providers on Solana.
-- [Switchboard](https://switchboard.xyz/) - Permissionless oracle network for custom on-chain data feeds.
 
 ## Stablecoins & Payments
 
 - [Solana Pay](https://solana.com/docs/payments/accept-payments/solana-pay) - Open protocol for accepting payments in USDC and other SPL tokens directly on Solana.
 
+## Real-World Assets
+
+- [Ondo Stocks](https://ondo.finance/global-markets) - Hundreds of tokenized US stocks and ETFs on Solana for non-US investors (formerly Ondo Global Markets).
+- [xStocks](https://xstocks.fi/) - Tokenized US stocks and ETFs issued by Backed, backed 1:1 by the underlying shares and usable across Solana DeFi; not available to US persons.
+
 ## NFTs & Digital Assets
 
 - [Metaplex](https://www.metaplex.com/) - The core NFT and digital-asset protocol standard on Solana.
-- [Tensor](https://www.tensor.trade/) - The dominant Solana NFT marketplace, handling the majority of on-chain NFT volume; also expanding into token trading.
-- [Magic Eden](https://magiceden.io/) - Multi-chain NFT marketplace with deep Solana roots and one of the largest NFT user bases in the ecosystem.
+- [Tensor](https://www.tensor.trade/) - Solana NFT marketplace built for active traders, governed by the Tensor Foundation.
+- [Magic Eden](https://magiceden.io/) - Long-running Solana NFT marketplace; Solana-only since March 2026, when it closed its Bitcoin and EVM marketplaces.
 - [SNS (Solana Name Service)](https://sns.id/) - Human-readable `.sol` domain names for Solana wallet addresses, natively resolved by wallets like Phantom and Solflare.
 
 ## DePIN
@@ -98,6 +102,7 @@
 - [Solana Agent Kit](https://kit.sendai.fun/) - Open-source toolkit connecting AI agents to 60+ Solana actions (token, NFT, and DeFi operations) across any LLM or agent framework.
 - [ElizaOS](https://github.com/elizaOS/eliza) - Actively developed, model-agnostic TypeScript framework for autonomous AI agents with native Solana support and 90+ plugins. (Note: its associated AI16Z token collapsed and was declared "dead" by its founder in 2026 amid a lawsuit — that's a token story, not a reflection of the open-source framework, which continues independent, active development.)
 - [Rig](https://rig.rs/) - Rust-native framework for building modular, production-grade LLM-powered agents; used in production by real Solana-adjacent projects.
+- [Solana Developer MCP](https://mcp.solana.com/) - Official Solana Foundation MCP server that gives AI coding assistants (Cursor, Claude Code, Windsurf…) up-to-date Solana and Anchor docs, plus a checker for Anchor and Pinocchio program code.
 
 ## DAO & Multisig Tooling
 
@@ -113,7 +118,7 @@
 ## Explorers & Analytics
 
 - [Solscan](https://solscan.io/) - Solana blockchain explorer for transactions, tokens, and accounts.
-- [SolanaFM](https://solana.fm/) - Solana blockchain explorer with a developer-focused API (acquired by Jupiter in 2024).
+- [Solana Explorer](https://explorer.solana.com/) - The official Solana block explorer, with a free MCP server that lets AI agents query on-chain data.
 - [Jupiter Portfolio](https://jup.ag/portfolio) - Unified Solana portfolio tracker covering token balances, DeFi positions, staking, and transaction history (formerly SonarWatch, acquired by Jupiter in 2025).
 
 ## Security
@@ -128,9 +133,11 @@
 - [Solana Playground](https://beta.solpg.io/) - Browser-based IDE for writing, deploying, and testing Solana programs with no local setup.
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Fast, in-process Solana VM for unit-testing programs without spinning up a validator.
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight SVM test harness for isolated, low-level program instruction testing, maintained by Anza.
+- [Surfpool](https://github.com/solana-foundation/surfpool) - Drop-in replacement for `solana-test-validator`, maintained by the Solana Foundation, that loads real mainnet accounts on demand for local testing.
 
 ## Libraries & Frameworks 
  - [Anchor](https://github.com/otter-sec/anchor) - The most widely used framework for Solana program development, now maintained by OtterSec.
+ - [Pinocchio](https://github.com/anza-xyz/pinocchio) - Anza's lightweight library for writing compute-efficient Solana programs without the full `solana-program` crate; Anza's rewrite of the SPL Token program (p-token) is built on it.
  - [Solana Kit](https://github.com/anza-xyz/kit) - Anza's modern JavaScript/TypeScript SDK for Solana and the official successor to `@solana/web3.js` (zero-dependency, tree-shakeable, faster crypto).
  - [Wallet Adapter](https://github.com/anza-xyz/wallet-adapter) - The standard modular TypeScript wallet adapters and React components for connecting wallets in a Solana app; used by the vast majority of Solana frontends.
  - [Codama](https://github.com/codama-idl/codama) - Generates typed TypeScript/Rust clients, CLIs, and docs directly from a Solana program's IDL.
@@ -142,13 +149,7 @@
  - [Solana Kotlin](https://github.com/ajamaica/Solana.kt) 
   
 ## Tutorials & Projects 
- - [Break Solana](https://github.com/solana-labs/break) 
- - [Hello World](https://github.com/solana-labs/example-helloworld) 
- - [Token Swap (Advanced)](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) 
- - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) 
- - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444) 
- - [Solana File Upload](https://github.com/mcf-rocks/solana-upload) 
- - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui) 
+ - [Solana Quick Start](https://solana.com/docs/intro/quick-start) - Official browser-based introduction to accounts, transactions, programs, PDAs and cross-program invocations, using Solana Playground.
   
  ## Projects building on Solana 
  see [solana.com/ecosystem](https://www.solana.com/ecosystem)
